@@ -3,6 +3,10 @@ body{
     color: #fff;
 }
 
+#inputs button{
+    margin: auto;
+}
+
 :focus{
     outline: none;
 }
